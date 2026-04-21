@@ -1,0 +1,19 @@
+Thực hiện Bài Tập tốt nghiệp :
+có 5 đề tài _ thực hiện theo nhóm _ mỗi nhóm 2 bạn
+Các Bạn tranh thủ chọn nhóm _ nếu ko chọn Thầy sẽ chọn
+Các bạn trong lop 20qtm2  tự chọn nhóm cho mình bằng cách ghi vào mục comment số nhóm ( vd ghi Bảo _đề 1 )
+( mỗi nhóm chỉ có 2 thành viên .Bạn nào chọn trước sẽ được ưu tiên )
+5 đề phải đảm bảo cả nhóm phần bổ đều
+Đề 1 : Mail
+Đề 2 : Win
+Đề 3 : Firewall Mềm
+Đề 4 : Linux
+Đề 5 : Firewall Cứng
+
+
+Phân tích đề tài
+1/ đề tài cần hệ thống như thế nào nào ?
+2 / có những dịch vụ nào cần có trong hê thống ?
+3/ Giải pháp nào cho dịch vụ đó chạy ổn định , tối ưu
+4/ làm thế nào để tăng bảo mật cho hệ thống ?
+Học sinh làm bài tập và ghi vào file word , sau đó gửi bài lên Classroom
