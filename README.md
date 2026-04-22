@@ -1,3 +1,4 @@
+https://youtube.com/playlist?list=PLPNBkAkc24iUzsWJdJ32fgYCKxVYr27yZ&si=KvV54tnKez4nSOv7
 # Tổng Quan Tài Liệu Quản Trị Mạng
 
 Tài liệu này tổng hợp các nội dung học tập, bài tập tốt nghiệp và đồ án thiết kế hệ thống mạng thuộc chương trình Quản trị Mạng.
